@@ -7,7 +7,6 @@ from __future__ import annotations
 
 import matplotlib.pyplot as plt
 
-
 from pathlib import Path
 
 
